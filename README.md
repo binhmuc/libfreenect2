@@ -198,7 +198,7 @@ Note: Ubuntu 12.04 is too old to support. Debian jessie may also be too old, and
 * Download libfreenect2 source
 
     ```
-git clone https://github.com/OpenKinect/libfreenect2.git
+git clone https://github.com/binhmuc/libfreenect2.git
 cd libfreenect2
 ```
 * (Ubuntu 14.04 only) Download upgrade deb files
